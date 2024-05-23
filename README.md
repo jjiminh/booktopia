@@ -158,8 +158,8 @@
 ## :carousel_horse:마무리 소감
 <details>
   <summary> :pencil2:Wrap Up</summary>
-  <img src="./projectImg/wrapUp1.png">
-  <img src="./projectImg/wrapUp2.png">
-  <img src="./projectImg/wrapUp3.png">
+  <img src="./booktopia/mingming.png">
+  <img src="./booktopia/jjonga.png">
+  <img src="./booktopia/jjimin.png">
 </details>        
 
